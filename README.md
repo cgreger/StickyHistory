@@ -1,0 +1,2 @@
+# stickyHistory
+A reddit bot that will update a single post with past stickies of a specific subreddit.
